@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/geofflittle/composer-utils/issues"
   },
-  "homepage": "https://github.com/geofflittle/composer-utils#readme"
+  "homepage": "https://github.com/geofflittle/composer-utils#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
